@@ -55,5 +55,3 @@ Download the DeepOnion press kit in vector format. The attached logos and icons 
 {% hint style="info" %}
 The DeepOnion Press Kit contains all of the official logos in vector format.
 {% endhint %}
-
-If you need a certain graphic for your event our graphic design team may be able to assist you. 
